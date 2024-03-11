@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['33744080333', 'SUPER MAN', true],
+  ['13019093330', 'SUPER MAN', true],
   ['923477099576', 'SUPER MAN', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['923477099576','33744080333'] 
-global.prems = ['923477099576', '33744080333', '919398758484']
-global.allowed = ['923477099576', '33744080333', '19152999993']
+global.mods = ['923477099576','13019093330'] 
+global.prems = ['923477099576', '13019093330', '919398758484']
+global.allowed = ['923477099576', '13019093330', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,18 +50,18 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '[𝐃𝐀𝟐] 𝐊𝐀𝐊𝐀𝐒𝐇𝐈'
+global.botname = 'ṦᴜᎮεʀ M̡̢̡̢ᴀᴎ❤️🌍'
 global.premium = 'true'
-global.packname = '[𝐃𝐀𝟐] 𝐊𝐀𝐊𝐀𝐒𝐇𝐈' 
+global.packname = 'ṦᴜᎮεʀ M̡̢̡̢ᴀᴎ❤️🌍' 
 global.author = 'null' 
-global.menuvid = 'https://telegra.ph/file/3a74a960cb572070a76b2.jpg'
+global.menuvid = 'https://i.imgur.com/BAuxyhe.jpg'
 global.igfg = '▢ Follow on Instagram\nhttps:' 
-global.dygp = 'https://wa.me/+33744080333'
+global.dygp = 'https://wa.me/13019093330'
 global.fgsc = 'https://github.com' 
 global.fgyt = 'https://youtube.com'
 global.fgpyp = 'https://youtube.com
 global.fglog = 'https://telegra.ph/file/3a74a960cb572070a76b2.jpg' 
-global.thumb = fs.readFileSync('https://telegra.ph/file/3a74a960cb572070a76b2.jpg')
+global.thumb = fs.readFileSync('https://i.imgur.com/BAuxyhe.jpg')
 
 
 global.wait = '*⌛ _Dowlonding..._*\n*▰▰▰▱▱▱▱▱*'
